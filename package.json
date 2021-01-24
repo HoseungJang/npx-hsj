@@ -1,0 +1,36 @@
+{
+  "name": "hoseung",
+  "version": "0.0.0",
+  "description": "about hoseung",
+  "main": "index.js",
+  "bin": {
+    "hoseung": "./bin/run.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+    "prebuild": "rm -rf lib/*",
+    "build": "tsc -b",
+    "start": "node ./bin/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoseung-only/cover-letter.git"
+  },
+  "keywords": [
+    "introduce",
+    "hoseung"
+  ],
+  "author": "Alvin Jang <hsjang.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ink": "^3.0.8",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "@types/react": "^17.0.0"
+  }
+}
