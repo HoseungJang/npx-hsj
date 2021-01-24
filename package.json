@@ -1,10 +1,10 @@
 {
-  "name": "hoseung",
+  "name": "hsj",
   "version": "1.0.0",
-  "description": "about hoseung",
+  "description": "about hoseung jang",
   "main": "index.js",
   "bin": {
-    "hoseung": "./bin/run.js"
+    "hsj": "./bin/run.js"
   },
   "files": [
     "bin",
@@ -20,8 +20,7 @@
     "url": "git+https://github.com/hoseung-only/cover-letter.git"
   },
   "keywords": [
-    "introduce",
-    "hoseung"
+    "hsj"
   ],
   "author": "Alvin Jang <hsjang.dev@gmail.com>",
   "license": "MIT",
