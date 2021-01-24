@@ -1,4 +1,5 @@
 # npx-hsj
+[![npm version](https://badge.fury.io/js/hsj.svg)](https://badge.fury.io/js/hsj)
 
 self-introduction with npm command
 
