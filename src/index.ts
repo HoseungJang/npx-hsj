@@ -1,5 +1,5 @@
 import { createElement } from "react";
-import { render } from "ink"
+import { render } from "ink";
 
 import { Hoseung } from "./hoseung";
 

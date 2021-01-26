@@ -40,4 +40,4 @@ export const Hoseung = () => {
       </Box>
     </Box>
   );
-}
+};
