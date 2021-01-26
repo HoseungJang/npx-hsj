@@ -30,6 +30,11 @@ export const Hoseung = () => {
           <Text> </Text>
           <Text color="#FFFFFF" underline>https://velog.io/@alvin</Text>
         </Box>
+        <Box>
+          <Text backgroundColor="#A9D0F5" color="#000000">   Email </Text>
+          <Text> </Text>
+          <Text color="#FFFFFF" underline>hsjang.dev@gmail.com</Text>
+        </Box>
       </Box>
       <Box flexDirection="column">
         <Text color="#A9D0F5">저에 대해 더 궁금하시다면?</Text>
