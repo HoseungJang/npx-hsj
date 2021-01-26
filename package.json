@@ -17,8 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoseung-only/cover-letter.git"
+    "url": "git+https://github.com/HoseungJang/npx-hsj.git"
   },
+  "homepage": "https://github.com/HoseungJang/npx-hsj#readme",
   "keywords": [
     "hsj"
   ],
