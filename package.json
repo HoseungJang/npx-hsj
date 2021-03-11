@@ -1,19 +1,18 @@
 {
   "name": "hsj",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "about hoseung jang",
   "main": "index.js",
   "bin": {
-    "hsj": "./bin/run.js"
+    "hsj": "./dst/run.js"
   },
   "files": [
-    "bin",
-    "lib"
+    "dst"
   ],
   "scripts": {
-    "prebuild": "rm -rf lib/*",
+    "prebuild": "rm -rf dst/*",
     "build": "tsc -b",
-    "start": "node ./bin/run.js"
+    "start": "npx ts-node src/run.ts"
   },
   "repository": {
     "type": "git",
