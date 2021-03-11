@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Text } from "ink";
 
-export const Hoseung = () => {
+export const Introduce = () => {
   return (
     <Box margin={2} flexDirection="column">
       <Box>
