@@ -40,7 +40,7 @@ export const Hoseung = () => {
         <Text color="#A9D0F5">저에 대해 더 궁금하시다면?</Text>
         <Box>
           <Text>👉 </Text>
-          <Text color="#FFFFFF" underline>https://about.janghoseung.com</Text>
+          <Text color="#FFFFFF" underline>https://about.hoseung.me</Text>
         </Box>
       </Box>
     </Box>
