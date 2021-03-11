@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "rootDir": "src",
-    "outDir": "lib",
+    "outDir": "dst",
     "module": "commonjs",
     "strict": true,
     "jsx": "react",
