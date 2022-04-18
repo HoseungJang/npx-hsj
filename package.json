@@ -1,6 +1,6 @@
 {
   "name": "hsj",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "about hoseung jang",
   "main": "index.js",
   "bin": {
