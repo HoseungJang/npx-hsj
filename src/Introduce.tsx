@@ -21,26 +21,43 @@ export const Introduce = () => {
       </Box>
       <Box marginTop={1} marginBottom={1} flexDirection="column">
         <Box>
-          <Text backgroundColor="#A9D0F5" color="#000000">  Github </Text>
+          <Text backgroundColor="#A9D0F5" color="#000000">
+            {" "}
+            Github{" "}
+          </Text>
           <Text> </Text>
-          <Text color="#FFFFFF" underline>https://github.com/HoseungJang</Text>
+          <Text color="#FFFFFF" underline>
+            https://github.com/HoseungJang
+          </Text>
         </Box>
         <Box>
-          <Text backgroundColor="#A9D0F5" color="#000000">    Blog </Text>
+          <Text backgroundColor="#A9D0F5" color="#000000">
+            {" "}
+            Blog{" "}
+          </Text>
           <Text> </Text>
-          <Text color="#FFFFFF" underline>https://velog.io/@alvin</Text>
+          <Text color="#FFFFFF" underline>
+            https://velog.io/@alvin
+          </Text>
         </Box>
         <Box>
-          <Text backgroundColor="#A9D0F5" color="#000000">   Email </Text>
+          <Text backgroundColor="#A9D0F5" color="#000000">
+            {" "}
+            Email{" "}
+          </Text>
           <Text> </Text>
-          <Text color="#FFFFFF" underline>hsjang.dev@gmail.com</Text>
+          <Text color="#FFFFFF" underline>
+            hsjang.dev@gmail.com
+          </Text>
         </Box>
       </Box>
       <Box flexDirection="column">
         <Text color="#A9D0F5">저에 대해 더 궁금하시다면?</Text>
         <Box>
           <Text>👉 </Text>
-          <Text color="#FFFFFF" underline>https://about.hoseung.me</Text>
+          <Text color="#FFFFFF" underline>
+            https://about.hoseung.me
+          </Text>
         </Box>
       </Box>
     </Box>
